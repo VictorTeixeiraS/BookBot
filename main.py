@@ -1,3 +1,6 @@
+# This program is a bot that reads a book and gives you a report of the characters and words in the book.
+
+
 import string
 
 book_path = "books/frankenstein.txt"
